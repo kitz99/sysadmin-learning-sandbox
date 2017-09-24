@@ -32,3 +32,8 @@
 ..* Use . to repeat the last executed command: c+i+" --> edit + ESC --> go to other line --> . = Magic :)
 ..* dd/yy -> delete / copy entire line
 
+#### Macros
+* Record a macro
+..* q + {register} + type macro content, do stuff, etc + q
+* Play a macro
+..* @ + {registry}
